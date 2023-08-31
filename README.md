@@ -17,5 +17,3 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dikrifzn&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
-![Snake animation](https://github.com/{{dikrifzn}}/{{dikrifzn}}/blob/output/github-contribution-grid-snake.svg)
