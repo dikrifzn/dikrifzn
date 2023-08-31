@@ -1,4 +1,4 @@
-# Halo World! 
+# Hello World! 
 
 Perkenalkan nama saya **Dikri Fauzan Amrulloh**.
 
