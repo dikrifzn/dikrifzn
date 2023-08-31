@@ -18,4 +18,4 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   </a>
 </p>
 
-![Snake animation](https://github.com/dikrifzn/dikrifzn/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/{{dikrifzn}}/{{dikrifzn}}/blob/output/github-contribution-grid-snake.svg)
